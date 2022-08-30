@@ -14,15 +14,12 @@ This is Siyu Yuan, a Ph.D. student at the School of Data Science in Fudan Univer
 
 
 ## Education
-=========
 - **Ph.D.**, Statistics, Fudan University, 2021-2025 (estimated)
     - **Laboratory** : "Knowledge Works Laboratory at Fudan University, Advisor: Prof. Deqing Yang and Prof. Yanghua Xiao"
 - **B.S.**, Bachelor of Data science and big data technology, Fudan University, 2017-2021
     - **Thesis Topic** : "Large-scale Concept Generation through Topic Alignment"
 
 ## Publications
-============
-
 -   **Siyu Yuan**, Deqing Yang, Jiaqing Liang, Jilun Sun, Jingyue Huang,
     Kaiyan Cao, Yanghua Xiao, Rui Xie *\"Large-Scale Multi-granular
     Concept Extraction Based on Machine Reading Comprehension.\"*
@@ -36,7 +33,6 @@ This is Siyu Yuan, a Ph.D. student at the School of Data Science in Fudan Univer
     Knowledge Discovery in Databases. (ECML PKDD 2022).
 
 ## Awards and Achievements
-=======================
 -  Outstanding Academic Scholarship for Master's Students (2022)
 -  Outstanding Graduate Student of Shanghai Colleges and University (2021)
 -  Outstanding Student pacemaker of Fudan University (2020)
@@ -45,7 +41,6 @@ This is Siyu Yuan, a Ph.D. student at the School of Data Science in Fudan Univer
 -  China National Scholarship (2018)
 
 ## Experience
-==========
 - *Student Researcher*, Knowledge Works Lab, Fudan University, March 2019 - Present
     * **Topic** - Meta-knowledge Generation and Knowledge Graph
     * **Advisor** - Prof. Yanghua Xiao and Prof. Deqing Yang
@@ -54,5 +49,4 @@ This is Siyu Yuan, a Ph.D. student at the School of Data Science in Fudan Univer
 
 
 ## Academic Service
----------
 -   Program Committee/Reviewer of EMNLP (2022).
