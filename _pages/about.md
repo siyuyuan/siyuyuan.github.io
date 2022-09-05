@@ -24,13 +24,13 @@ This is Siyu Yuan, a Ph.D. student at the School of Data Science in Fudan Univer
     Kaiyan Cao, Yanghua Xiao, Rui Xie *\"Large-Scale Multi-granular
     Concept Extraction Based on Machine Reading Comprehension.\"*
     accepted in the 20th International Semantic Web Conference (ISWC
-    2021). [arxiv](https://arxiv.org/abs/2208.14139) [code](https://github.com/fcihraeipnusnacwh/MRC-CE)
+    2021). [arxiv](https://arxiv.org/abs/2208.14139), [code](https://github.com/fcihraeipnusnacwh/MRC-CE)
 
 -   Jingjie Yi, Deqing Yang, **Siyu Yuan**, Kaiyan Cao, Zhiyao Zhang and
     Yanghua Xiao *\"Contextual Information and Commonsense Based Prompt
     for Emotion Recognition in Conversation.\"* accepted in European
     Conference on Machine Learning and Principles and Practice of
-    Knowledge Discovery in Databases. (ECML PKDD 2022). [arxiv](https://arxiv.org/abs/2207.13254) [code](https://github.com/DeqingYang/CISPER)
+    Knowledge Discovery in Databases. (ECML PKDD 2022). [arxiv](https://arxiv.org/abs/2207.13254), [code](https://github.com/DeqingYang/CISPER)
 
 ## Awards and Achievements
 -  Outstanding Academic Scholarship for Master's Students (2022)
