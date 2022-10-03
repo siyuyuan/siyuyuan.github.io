@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Siyu Yuan, a Ph.D. student at the School of Data Science in Fudan University and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](http://kw.fudan.edu.cn/people/yangdeqing/) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/). Her research interests mainly include: 1) Meta-knowledge Generation 2) Knowledge Graph, and 3) Knowledge Acquisition.
+Manling Li is a second-year Ph.D. studentat the School of Data Science in Fudan University and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](http://kw.fudan.edu.cn/people/yangdeqing/) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/). Her research interests mainly include: 1) Meta-knowledge Generation 2) Knowledge Graph, and 3) Knowledge Acquisition.
+
 
 (Download my [resumé](http://siyuyuan.github.io/files/CV(English).pdf).)
 
