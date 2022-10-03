@@ -21,7 +21,7 @@ This is Siyu Yuan, a Ph.D. student at the School of Data Science in Fudan Univer
 
 ## Publications
 
--   **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** <br> Jingjie Yi, Deqing Yang, <ins>**Siyu Yuan**</ins>, Kaiyan Cao, Zhiyao Zhang and Yanghua Xiao <br>  **ECML PKDD 2022** [pdf](https://arxiv.org/abs/2207.13254), [code](https://github.com/DeqingYang/CISPER) <br>
+-   **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** [<a href='https://arxiv.org/abs/2207.13254'>PDF</a>] [<a href='https://github.com/DeqingYang/CISPER'>Code</a>] <br> Jingjie Yi, Deqing Yang, <ins>**Siyu Yuan**</ins>, Kaiyan Cao, Zhiyao Zhang and Yanghua Xiao <br>  **ECML PKDD 2022** <br>
     
 -   **Large-Scale Multi-granular Concept Extraction Based on Machine Reading Comprehension** <br> <ins>**Siyu Yuan**</ins>, Deqing Yang, Jiaqing Liang, Jilun Sun, Jingyue Huang, Kaiyan Cao, Yanghua Xiao, Rui Xie <br> **ISWC 2021** [pdf](https://arxiv.org/abs/2208.14139), [code](https://github.com/fcihraeipnusnacwh/MRC-CE) <br>
 
