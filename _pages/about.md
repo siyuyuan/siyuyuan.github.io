@@ -20,17 +20,10 @@ This is Siyu Yuan, a Ph.D. student at the School of Data Science in Fudan Univer
     - **Thesis Topic** : "Large-scale Concept Generation through Topic Alignment"
 
 ## Publications
--   **Siyu Yuan**, Deqing Yang, Jiaqing Liang, Jilun Sun, Jingyue Huang,
-    Kaiyan Cao, Yanghua Xiao, Rui Xie *\"Large-Scale Multi-granular
-    Concept Extraction Based on Machine Reading Comprehension.\"*
-    accepted in the 20th International Semantic Web Conference (ISWC
-    2021). [arxiv](https://arxiv.org/abs/2208.14139), [code](https://github.com/fcihraeipnusnacwh/MRC-CE)
 
--   Jingjie Yi, Deqing Yang, **Siyu Yuan**, Kaiyan Cao, Zhiyao Zhang and
-    Yanghua Xiao *\"Contextual Information and Commonsense Based Prompt
-    for Emotion Recognition in Conversation.\"* accepted in European
-    Conference on Machine Learning and Principles and Practice of
-    Knowledge Discovery in Databases. (ECML PKDD 2022). [arxiv](https://arxiv.org/abs/2207.13254), [code](https://github.com/DeqingYang/CISPER)
+-   **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** <br> Jingjie Yi, Deqing Yang, <ins>**Siyu Yuan**</ins>, Kaiyan Cao, Zhiyao Zhang and Yanghua Xiao <br>  **ECML PKDD 2022** [pdf](https://arxiv.org/abs/2207.13254), [code](https://github.com/DeqingYang/CISPER) <br>
+    
+-   **Large-Scale Multi-granular Concept Extraction Based on Machine Reading Comprehension** <br> <ins>**Siyu Yuan**</ins>, Deqing Yang, Jiaqing Liang, Jilun Sun, Jingyue Huang, Kaiyan Cao, Yanghua Xiao, Rui Xie <br> **ISWC 2021** [pdf](https://arxiv.org/abs/2208.14139), [code](https://github.com/fcihraeipnusnacwh/MRC-CE) <br>
 
 ## Awards and Achievements
 -  Outstanding Academic Scholarship for Master's Students (2022)
