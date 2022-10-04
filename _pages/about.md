@@ -20,6 +20,9 @@ Manling Li is a second-year Ph.D. studentat the School of Data Science in Fudan 
 - **B.S.**, Bachelor of Data science and big data technology, Fudan University, 2017-2021
     - **Thesis Topic** : "Large-scale Concept Generation through Topic Alignment"
 
+## News
+* [2022-09] Our work of **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** has been reported in the ECML PKDD 2022 online. 
+
 ## Publications
 
 2\. **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** [<a href='https://arxiv.org/abs/2207.13254'>PDF</a>] [<a href='https://github.com/DeqingYang/CISPER'>Code</a>] <br> Jingjie Yi, Deqing Yang, <ins>**Siyu Yuan**</ins>, Kaiyan Cao, Zhiyao Zhang and Yanghua Xiao <br>  **ECML PKDD 2022** <br>
