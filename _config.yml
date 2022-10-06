@@ -85,9 +85,8 @@ author:
   bio              : "Ph.D. in Statistics"
   location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en-CN&user=6JMfD44AAAAJ"
-  email            :
+  email            : "syyuan21@m.fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "xiaomao979"
+  twitter          : "Gorain"
   vine             :
   weibo            :
   xing             :
