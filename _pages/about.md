@@ -11,7 +11,7 @@ redirect_from:
 Manling Li is a second-year Ph.D. studentat the School of Data Science in Fudan University and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](http://kw.fudan.edu.cn/people/yangdeqing/) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/). Her research interests mainly include: 1) Meta-knowledge Generation 2) Knowledge Graph, and 3) Knowledge Acquisition.
 
 
-(Download my [resumé](http://siyuyuan.github.io/files/CV(English).pdf).)
+(Download my [resumé](http://siyuyuan.github.io/files/CV_English_.pdf).)
 
 
 ## Education
