@@ -34,6 +34,7 @@ Manling Li is a second-year Ph.D. studentat the School of Data Science in Fudan 
 
 ## Awards and Achievements
 -  Outstanding Academic Scholarship for Master's Students (2022)
+-  Outstanding Academic Scholarship for Master's Students (2021)
 -  Outstanding Graduate Student of Shanghai Colleges and University (2021)
 -  Outstanding Student pacemaker of Fudan University (2020)
 -  First-Class Academic Scholarship of Fudan University (2020)
