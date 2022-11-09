@@ -50,4 +50,4 @@ Manling Li is a second-year Ph.D. studentat the School of Data Science in Fudan 
 
 
 ## Academic Service
--   Program Committee/Reviewer of EMNLP (2022).
+-   Program Committee/Reviewer of EMNLP (2022), APIN (2022).
