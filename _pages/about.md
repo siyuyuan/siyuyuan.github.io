@@ -26,7 +26,7 @@ Siyu Yuan is a second-year Ph.D. studentat the School of Data Science in Fudan U
 
 ## Publications
 
-3\. **Generative Entity Typing with Curriculum Learning** [<a href='https://arxiv.org/abs/2210.02914'>PDF</a>] [<a href='https://github.com/siyuyuan/GET'>Code</a>] <br> <ins>**Siyu Yuan**</ins>, Deqing Yang, Jiaqing Liang, Zhixu Li, Jinxi Liu, Jingyue Huang, Yanghua Xiao<br>  Long paper, in: **EMNLP 2022** <br>
+3\. **Generative Entity Typing with Curriculum Learning** [<a href='https://arxiv.org/abs/2210.02914'>PDF</a>] [<a href='https://github.com/siyuyuan/GET'>Code</a>] <br> <ins>**Siyu Yuan**</ins>, Deqing Yang, Jiaqing Liang, Zhixu Li, Jinxi Liu, Jingyue Huang, Yanghua Xiao<br>  Long paper, in: **EMNLP 2022** (acceptance rate ~22%) <br>
 
 2\. **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** [<a href='https://arxiv.org/abs/2207.13254'>PDF</a>] [<a href='https://github.com/DeqingYang/CISPER'>Code</a>] <br> Jingjie Yi, Deqing Yang, <ins>**Siyu Yuan**</ins>, Kaiyan Cao, Zhiyao Zhang and Yanghua Xiao <br>  Long paper, in: **ECML PKDD 2022** (acceptance rate ~26%) <br>
     
