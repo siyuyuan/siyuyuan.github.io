@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Siyu Yuan is a second-year Ph.D. studentat the School of Data Science in Fudan University and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](http://kw.fudan.edu.cn/people/yangdeqing/) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/). Her research interests mainly include: 1) Meta-knowledge Generation 2) Knowledge Graph, and 3) Knowledge Acquisition.
+Siyu Yuan is a second-year Ph.D. studentat the School of Data Science in Fudan University and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](http://kw.fudan.edu.cn/people/yangdeqing/) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/). Her research interests mainly include: 1) Knowledge generation and 2) LLM prompt engineering.
 
 
 (Download my [resumé](http://siyuyuan.github.io/files/CV_English_.pdf).)
@@ -46,8 +46,8 @@ Siyu Yuan is a second-year Ph.D. studentat the School of Data Science in Fudan U
     * **Topic** - Meta-knowledge Generation and Knowledge Graph
     * **Advisor** - Prof. Yanghua Xiao and Prof. Deqing Yang
 - *NLP Research Intern*, Brain Technologies, June 2022 - September 2022 
-    * **Topic** - Meta-knowledge Generation
+    * **Topic** - Meta-knowledge Generation and LLM prompt engineering
 
 
 ## Academic Service
--   Program Committee/Reviewer of EMNLP (2022), APIN (2022).
+-   Program Committee/Reviewer of EMNLP (2022), ACL(2023), APIN (2022).
