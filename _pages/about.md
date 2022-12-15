@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Siyu Yuan Homepage"
+title: "Siyu Yuan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,13 +16,6 @@ She is devoted to acquiring knowledge, especially **meta-knowledge** based on pr
 
 (Download my [resumé](http://siyuyuan.github.io/files/CV_English_.pdf).)
 
-
-## Education
-- **Ph.D.**, Statistics, Fudan University, 2021-2025 (estimated)
-    - **Laboratory** : "Knowledge Works Laboratory at Fudan University, Advisor: Prof. Deqing Yang and Prof. Yanghua Xiao"
-- **B.S.**, Bachelor of Data science and big data technology, Fudan University, 2017-2021
-    - **Thesis Topic** : "Large-scale Concept Generation through Topic Alignment"
-
 ## News
 * [2022-10] Our work **Generative Entity Typing with Curriculum Learning** got accepted at EMNLP 2022!
 * [2022-09] Our work **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** has been reported in the ECML PKDD 2022 online!
@@ -34,6 +27,12 @@ She is devoted to acquiring knowledge, especially **meta-knowledge** based on pr
 2\. **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** [<a href='https://arxiv.org/abs/2207.13254'>PDF</a>] [<a href='https://github.com/DeqingYang/CISPER'>Code</a>] <br> Jingjie Yi, Deqing Yang, <ins>**Siyu Yuan**</ins>, Kaiyan Cao, Zhiyao Zhang and Yanghua Xiao <br>  Long paper, in: **ECML PKDD 2022** (acceptance rate ~26%) <br>
     
 1\. **Large-Scale Multi-granular Concept Extraction Based on Machine Reading Comprehension** [<a href='https://arxiv.org/abs/2208.14139'>PDF</a>] [<a href='https://github.com/fcihraeipnusnacwh/MRC-CE'>Code</a>] <br> <ins>**Siyu Yuan**</ins>, Deqing Yang, Jiaqing Liang, Jilun Sun, Jingyue Huang, Kaiyan Cao, Yanghua Xiao, Rui Xie <br> Long paper, in: **ISWC 2021** (acceptance rate ~18%) <br> 
+
+## Education
+- **Ph.D.**, Statistics, Fudan University, 2021-2025 (estimated)
+    - **Laboratory** : "Knowledge Works Laboratory at Fudan University, Advisor: Prof. Deqing Yang and Prof. Yanghua Xiao"
+- **B.S.**, Bachelor of Data science and big data technology, Fudan University, 2017-2021
+    - **Thesis Topic** : "Large-scale Concept Generation through Topic Alignment"
 
 ## Awards and Achievements
 -  Outstanding Academic Scholarship for Master's Students (2022)
