@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Siyu Yuan"
+title: "Siyu Yuan (员司雨)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
