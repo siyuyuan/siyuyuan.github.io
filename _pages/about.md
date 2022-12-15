@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Siyu Yuan is a second-year Ph.D. studentat the School of Data Science in Fudan University and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](http://kw.fudan.edu.cn/people/yangdeqing/) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/). Her research interests mainly include: 1) Knowledge generation and 2) LLM prompt engineering.
+Siyu Yuan is a second-year Ph.D. studentat the School of Data Science in Fudan University and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](http://kw.fudan.edu.cn/people/yangdeqing/) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/). 
 
+She is devoted to acquiring knowledge, especially **meta-knowledge** based on pre-trained language models and making machines have the human-like cognitive abilities. Main interested research topics include (but not limited to)
+- **Knowledge generation**, especially on excavating meta-knowledge based on pre-trained language models, including concept acquisition, script generation and analogy making.
+- **LLM prompt engineering**, especially on endow appropriate instructions to LLMs (e.g., GPT-3, BLOOM, BLOOMZ) for various kinds of task.
 
 (Download my [resumé](http://siyuyuan.github.io/files/CV_English_.pdf).)
 
