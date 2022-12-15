@@ -44,12 +44,11 @@ She is devoted to acquiring knowledge, especially **meta-knowledge** based on pr
 -  China National Scholarship (2018)
 
 ## Experience
+- *NLP Research Intern*, Brain Technologies, June 2022 - September 2022 
+    * **Topic** - Meta-knowledge Generation and LLM prompt engineering
 - *Student Researcher*, Knowledge Works Lab, Fudan University, March 2019 - Present
     * **Topic** - Meta-knowledge Generation and Knowledge Graph
     * **Advisor** - Prof. Yanghua Xiao and Prof. Deqing Yang
-- *NLP Research Intern*, Brain Technologies, June 2022 - September 2022 
-    * **Topic** - Meta-knowledge Generation and LLM prompt engineering
-
 
 ## Academic Service
 -   Program Committee/Reviewer of EMNLP (2022), ACL(2023), APIN (2022).
