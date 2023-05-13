@@ -40,7 +40,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2021-6-30'
+          date_start: '2021-06-31'
           description: ''
           organization: Fudan University
           organization_url: ''
@@ -56,12 +56,11 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2019-10-01'
+          date_start: '2018-05-25'
           description: ''
           organization: Fudan University
           organization_url: ''
-          title: National Encouragement Scholarship
-          url: ''
+          title: China National Scholarship
     design:
       columns: '2'
   - block: collection
@@ -90,7 +89,6 @@ sections:
     design:
       columns: '2'
       view: citation
-      
   - block: markdown
     id: gallery
     content:
