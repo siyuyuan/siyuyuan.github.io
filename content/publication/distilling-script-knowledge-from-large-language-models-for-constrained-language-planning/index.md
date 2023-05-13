@@ -47,9 +47,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: 2.png
-date: 2023-05-10T02:12:23.523Z
+date: 2023-05-02T02:12:23.523Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2023-05-02T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/siyuyuan/coscript
 ---
