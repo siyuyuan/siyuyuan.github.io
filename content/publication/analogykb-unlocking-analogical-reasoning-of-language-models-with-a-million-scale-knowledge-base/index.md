@@ -1,17 +1,17 @@
 ---
-abstract: Analogical reasoning is a fundamental cognitive ability of humans. 
+abstract: "Analogical reasoning is a fundamental cognitive ability of humans. 
   However, current language models (LMs) still struggle to achieve human-like 
   performance in analogical reasoning tasks due to a lack of resources for model 
   training. In this work, we address this gap by proposing ANALOGYKB, a million-scale 
   analogy knowledge base (KB) derived from existing knowledge graphs (KGs). 
-  ANALOGYKB identifies two types of analogies from the KGs &#58; 1) analogies of the 
+  ANALOGYKB identifies two types of analogies from the KGs: 1) analogies of the 
   same relations, which can be directly extracted from the KGs, and 2) analogies 
   of analogous relations, which are identified with a selection and filtering 
   pipeline enabled by large LMs (InstructGPT), followed by minor human efforts 
   for data quality control. Evaluations on a series of datasets of two analogical 
   reasoning tasks (analogy recognition and generation) demonstrate that ANALOGYKB 
   successfully enables LMs to achieve much better results than previous 
-  state-of-the-art methods.
+  state-of-the-art methods."
 slides: ""
 url_pdf: https://arxiv.org/abs/2305.05994
 publication_types:
@@ -33,7 +33,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: ANALOGYKB&#58; Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base
+title: "ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base"
 doi: ""
 featured: false
 tags: []
