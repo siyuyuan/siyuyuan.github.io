@@ -52,9 +52,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: 3.png
-date: 2022-12-07T02:12:23.523Z
+date: 2022-10-03T02:12:23.523Z
 url_slides: https://siyuyuan.github.io/files/GET.pdf
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2022-10-03T00:00:00.000Z
 url_poster: https://siyuyuan.github.io/files/GET_poster_long.pdf
 url_code: https://github.com/siyuyuan/GET
 ---
