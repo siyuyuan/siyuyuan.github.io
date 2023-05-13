@@ -61,6 +61,7 @@ sections:
           organization: Fudan University
           organization_url: ''
           title: China National Scholarship
+          url: ''
     design:
       columns: '2'
   - block: collection
