@@ -78,7 +78,7 @@ sections:
   - block: collection
     id: recent
     content:
-      title: Publications
+      title: Recent Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -90,6 +90,7 @@ sections:
     design:
       columns: '2'
       view: citation
+      
   - block: markdown
     id: gallery
     content:
