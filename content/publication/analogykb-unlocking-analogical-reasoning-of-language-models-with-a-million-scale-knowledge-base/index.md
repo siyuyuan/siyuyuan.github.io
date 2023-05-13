@@ -4,7 +4,7 @@ abstract: Analogical reasoning is a fundamental cognitive ability of humans.
   performance in analogical reasoning tasks due to a lack of resources for model 
   training. In this work, we address this gap by proposing ANALOGYKB, a million-scale 
   analogy knowledge base (KB) derived from existing knowledge graphs (KGs). 
-  ANALOGYKB identifies two types of analogies from the KGs: 1) analogies of the 
+  ANALOGYKB identifies two types of analogies from the KGs &#58; 1) analogies of the 
   same relations, which can be directly extracted from the KGs, and 2) analogies 
   of analogous relations, which are identified with a selection and filtering 
   pipeline enabled by large LMs (InstructGPT), followed by minor human efforts 
@@ -13,28 +13,27 @@ abstract: Analogical reasoning is a fundamental cognitive ability of humans.
   successfully enables LMs to achieve much better results than previous 
   state-of-the-art methods.
 slides: ""
-url_pdf: https://arxiv.org/abs/2208.14139
+url_pdf: https://arxiv.org/abs/2305.05994
 publication_types:
   - "1"
 authors:
   - admin
-  - Deqing Yang
+  - Jiangjie Chen
+  - Changzhi Sun
   - Jiaqing Liang
-  - Jilun Sun
-  - Jingyue Huang
-  - Kaiyan Cao
   - Yanghua Xiao
-  - Rui Xie
-author_notes: []
-publication: In *The 20th International Semantic Web Conference(**ISWC 2021**)*
+  - Deqing Yang
+author_notes:
+  - Equal contribution
+  - Equal contribution
+publication: In *Arxiv 2023*
 summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Large-Scale Multi-granular Concept Extraction Based on Machine Reading
-  Comprehension
+title: ANALOGYKB&#58; Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base
 doi: ""
 featured: false
 tags: []
@@ -43,9 +42,9 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2021-10-24T02:34:00.000Z
+date: 2023-05-10T02:34:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2023-05-10T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/fcihraeipnusnacwh/MRC-CE
+url_code: https://github.com/siyuyuan/analogykb
 ---
