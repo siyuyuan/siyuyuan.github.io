@@ -19,13 +19,13 @@ publication_types:
 authors:
   - admin
   - Jiangjie Chen
-author_notes: 
-  - Equal contribution
-authors:
   - Changzhi Sun
   - Jiaqing Liang
   - Yanghua Xiao
   - Deqing Yang
+author_notes: 
+  - "Equal contribution"
+  - "Equal contribution"
 publication: In *Arxiv 2023*
 summary: ""
 url_dataset: ""
