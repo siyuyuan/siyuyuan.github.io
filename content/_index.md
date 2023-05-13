@@ -40,23 +40,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2022-05-25'
-          description: ''
-          organization: Fudan University
-          organization_url: ''
-          title: Outstanding Academic Scholarship for Master’s Students
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2021-05-25'
-          description: ''
-          organization: Fudan University
-          organization_url: ''
-          title: Outstanding Academic Scholarship for Master’s Students
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2022-03-25'
+          date_start: '2021-06'
           description: ''
           organization: Fudan University
           organization_url: ''
@@ -64,7 +48,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2020-05-25'
+          date_start: '2020-12'
           description: ''
           organization: Fudan University
           organization_url: ''
@@ -72,27 +56,12 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2020-03-25'
-          description: ''
-          organization: Fudan University
-          organization_url: ''
-          title: First-Class Academic Scholarship of Fudan University
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2019-05-25'
+          date_start: '2019-10'
           description: ''
           organization: Fudan University
           organization_url: ''
           title: National Encouragement Scholarship
           url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2018-05-25'
-          description: ''
-          organization: Fudan University
-          organization_url: ''
-          title: China National Scholarship
     design:
       columns: '2'
   - block: collection
