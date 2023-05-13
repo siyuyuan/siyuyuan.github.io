@@ -40,7 +40,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: 'June 2021'
+          date_start: '2021-06-30'
           description: ''
           organization: Fudan University
           organization_url: ''
@@ -48,7 +48,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: 'Dec 2020'
+          date_start: '2020-12-01'
           description: ''
           organization: Fudan University
           organization_url: ''
@@ -56,7 +56,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: 'Oct 2019'
+          date_start: '2019-10-01'
           description: ''
           organization: Fudan University
           organization_url: ''
