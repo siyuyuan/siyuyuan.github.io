@@ -3,7 +3,7 @@ abstract: Analogical reasoning is a fundamental cognitive ability of humans.
   However, current language models (LMs) still struggle to achieve human-like 
   performance in analogical reasoning tasks due to a lack of resources for model 
   training. In this work, we address this gap by proposing ANALOGYKB, a million-scale 
-  analogy knowledge base (KB) derived from existing knowledge graphs (KGs). 
+  analogy knowledge base (KB) derived from existing knowledge graphs (KGs).
   ANALOGYKB identifies two types of analogies from the KGs: 1) analogies of the 
   same relations, which can be directly extracted from the KGs, and 2) analogies 
   of analogous relations, which are identified with a selection and filtering 
