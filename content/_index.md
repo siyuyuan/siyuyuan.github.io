@@ -58,17 +58,6 @@ sections:
           description: ''
           organization: Fudan University
           organization_url: ''
-
-    
-          
-            
-    
-
-          
-          Expand Down
-    
-    
-  
           title: National Encouragement Scholarship
           url: ''
     design:
