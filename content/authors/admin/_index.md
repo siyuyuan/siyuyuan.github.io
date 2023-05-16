@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Large Language Models
-  - Machine Reasoning
   - Applications of LLMs
+  - Machine Reasoning
 social:
   - display:
       header: false
