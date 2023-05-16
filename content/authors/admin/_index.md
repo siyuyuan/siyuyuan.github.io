@@ -38,7 +38,7 @@ highlight_name: true
 first_name: Siyu
 email: ""
 ---
-Siyu Yuan (员司雨) is a second-year Ph.D. studentat the School of Data Science in Fudan University and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](http://kw.fudan.edu.cn/people/yangdeqing/) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/).
+Siyu Yuan (员司雨) is a second-year Ph.D. student at the School of Data Science in Fudan University and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](http://kw.fudan.edu.cn/people/yangdeqing/) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/).
 
 She is devoted to acquiring knowledge, especially **Meta-Knowledge** based on language models and making machines have the human-like cognitive abilities. Main interested research topics include (but not limited to)
 
