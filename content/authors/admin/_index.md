@@ -47,4 +47,4 @@ She is devoted to acquiring knowledge, especially **Meta-Knowledge** based on 
 * **LLM prompt engineering**, especially on endow appropriate instructions with COT to LLMs (e.g., GPT-4, GPT-3.5, GPT-3, BLOOMZ, LLaMA) for various kinds of task.
 
 
-(Download my [resumé](http://siyuyuan.github.io/files/CV_English_.pdf).)
+(Download my [resumé](http://siyuyuan.github.io/uploads/files/CV_English_.pdf).)
