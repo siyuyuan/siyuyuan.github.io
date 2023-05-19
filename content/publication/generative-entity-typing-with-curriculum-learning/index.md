@@ -53,8 +53,8 @@ image:
   preview_only: false
   filename: 3.png
 date: 2022-10-03T02:12:23.523Z
-url_slides: https://siyuyuan.github.io/files/GET.pdf
+url_slides: https://github.com/siyuyuan/GET/GET_poster_long.pdf
 publishDate: 2022-10-03T00:00:00.000Z
-url_poster: https://siyuyuan.github.io/files/GET_poster_long.pdf
+url_poster: https://github.com/siyuyuan/GET/blob/main/GET_poster_long.pdf
 url_code: https://github.com/siyuyuan/GET
 ---
