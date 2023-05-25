@@ -26,7 +26,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: Preprint.
+publication: Preprint
 summary: ""
 url_dataset: ""
 url_project: ""
