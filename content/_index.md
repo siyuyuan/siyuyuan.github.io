@@ -15,13 +15,13 @@ sections:
     content:
       title: News
       text: 
-        + ***May*** **2023**\: Check out two pre-prints on Analogical Reasoning. [AnalogyKB](https://siyuyuan.github.io/publication/analogykb-unlocking-analogical-reasoning-of-language-models-with-a-million-scale-knowledge-base/) is a million-scale analogy KB derived from existing KGs, to enable machines to achieve analogical reasoning skills. [SCAR](https://siyuyuan.github.io/publication/beneath-surface-similarity-large-language-models-make-reasonable-scientific-analogies-after-structure-abduction/) is a new challenge for evaluating structure abduction ability of LLMs for scientific analogies, which is essential for human-like analogical reasoning.
+        + ***May*** **2023**\:Check out two pre-prints on Analogical Reasoning. [AnalogyKB](https://siyuyuan.github.io/publication/analogykb-unlocking-analogical-reasoning-of-language-models-with-a-million-scale-knowledge-base/) is a million-scale analogy KB derived from existing KGs, to enable machines to achieve analogical reasoning skills. [SCAR](https://siyuyuan.github.io/publication/beneath-surface-similarity-large-language-models-make-reasonable-scientific-analogies-after-structure-abduction/) is a new challenge for evaluating structure abduction ability of LLMs for scientific analogies, which is essential for human-like analogical reasoning.
       
-        + ***May*** **2023**\: Two papers accepted to ACL 2023! One is [Coscript](https://siyuyuan.github.io/publication/distilling-script-knowledge-from-large-language-models-for-constrained-language-planning/) on constraint language planning, and the other is [KPCE](https://siyuyuan.github.io/publication/causality-aware-concept-extraction-based-on-knowledge-guided-prompting/) on concept extraction through the lens of a Structural Causal Model.  
+        + ***May*** **2023**\:Two papers accepted to ACL 2023! One is [Coscript](https://siyuyuan.github.io/publication/distilling-script-knowledge-from-large-language-models-for-constrained-language-planning/) on constraint language planning, and the other is [KPCE](https://siyuyuan.github.io/publication/causality-aware-concept-extraction-based-on-knowledge-guided-prompting/) on concept extraction through the lens of a Structural Causal Model.  
         
-        + ***Oct.*** **2022**\: Our work [Generative Entity Typing with Curriculum Learning](https://siyuyuan.github.io/publication/generative-entity-typing-with-curriculum-learning/) got accepted at EMNLP 2022!
+        + ***Oct.*** **2022**\:Our work [Generative Entity Typing with Curriculum Learning](https://siyuyuan.github.io/publication/generative-entity-typing-with-curriculum-learning/) got accepted at EMNLP 2022!
         
-        + ***Sept.*** **2022**\: Our work **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** has been reported in the ECML PKDD 2022 online!
+        + ***Sept.*** **2022**\:Our work **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** has been reported in the ECML PKDD 2022 online!
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
