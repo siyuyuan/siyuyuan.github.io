@@ -44,7 +44,7 @@ She is devoted to acquiring knowledge, especially **Meta-Knowledge** based on 
 
 * **Knowledge acquisition**, especially on excavating knowledge based on language models, including concept acquisition, script generation and analogy making.
 * **Symbolic knowledge distillation**, especially distilling symbolic knowledge from large language models (LLMs) and transferring it to smaller but specialized models to enhance their performance.
-* **LLM prompt engineering**, especially on endow appropriate instructions with COT to LLMs (e.g., GPT-4, GPT-3.5, GPT-3, BLOOMZ, LLaMA) for various kinds of task.
+* **LLM prompt engineering**, especially on endowing appropriate instructions with COT to LLMs (e.g., GPT-4, GPT-3.5, GPT-3, BLOOMZ, LLaMA) for various kinds of tasks.
 
 
 (Download my [resumé](http://siyuyuan.github.io/uploads/resume.pdf).)
