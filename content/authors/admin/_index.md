@@ -4,14 +4,14 @@ role: Ph.D. in Statistics
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Large Language Models
+  - Cognitive Science
   - Applications of LLMs
-  - Machine Reasoning
+  - Writing Novels
 social:
   - display:
       header: false
     icon_pack: far
-    link: 21110980014@m.fudan.edu.cn
+    link: syyuan21@m.fudan.edu.cn
     icon: envelope
   - icon: graduation-cap
     icon_pack: fas
@@ -24,7 +24,7 @@ organizations:
     url: https://www.fudan.edu.cn/en/
 education:
   courses:
-    - course: Ph.D., Statistics, 2021-2025 (estimated)
+    - course: Ph.D., Statistics, 2021-2026 (estimated)
       institution: Fudan University
       year: ""
     - course: B.S., Bachelor of Data Science and big data technology, 2017-2021
