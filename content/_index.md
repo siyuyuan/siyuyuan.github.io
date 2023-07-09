@@ -15,7 +15,7 @@ sections:
     content:
       title: News
       text: 
-        + ***July*** **2023**\:Our paper [Coscript](https://siyuyuan.github.io/publication/distilling-script-knowledge-from-large-language-models-for-constrained-language-planning/) got an <font color="red">Outstanding Paper Award</font> in ACL 2023 (top 1%)!
+        + ***July*** **2023**\:Our paper [Coscript](https://siyuyuan.github.io/publication/distilling-script-knowledge-from-large-language-models-for-constrained-language-planning/) got an <font color="red">**Outstanding Paper Award**</font> in ACL 2023 (top 1%)!
 
         + ***July*** **2023**\:Gave a talk for Peking University Shenzhen Graduate School Shanghai Alumni Association.
 
