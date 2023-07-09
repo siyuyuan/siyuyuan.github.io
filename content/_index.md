@@ -15,6 +15,8 @@ sections:
     content:
       title: News
       text: 
+        + ***July*** **2023**\:Our paper [Coscript](https://siyuyuan.github.io/publication/distilling-script-knowledge-from-large-language-models-for-constrained-language-planning/) got an <font color="red">Outstanding Paper Award</font> in ACL 2023 (top 1%)!
+
         + ***July*** **2023**\:Gave a talk for Peking University Shenzhen Graduate School Shanghai Alumni Association.
 
         + ***May*** **2023**\:Check out two pre-prints on Analogical Reasoning. [AnalogyKB](https://siyuyuan.github.io/publication/analogykb-unlocking-analogical-reasoning-of-language-models-with-a-million-scale-knowledge-base/) is a million-scale analogy KB derived from existing KGs, to enable machines to achieve analogical reasoning skills. [SCAR](https://siyuyuan.github.io/publication/beneath-surface-similarity-large-language-models-make-reasonable-scientific-analogies-after-structure-abduction/) is a new challenge for evaluating the structure abduction ability of LLMs for scientific analogies, which is essential for human-like analogical reasoning.
