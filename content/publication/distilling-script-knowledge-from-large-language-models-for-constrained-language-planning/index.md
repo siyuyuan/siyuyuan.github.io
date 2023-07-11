@@ -13,7 +13,7 @@ abstract: In everyday life, humans often plan their actions by following
   faithfulness. Furthermore, CoScript is demonstrated to be quite effective in
   endowing smaller LMs with constrained language planning ability.
 slides: ""
-url_pdf: https://arxiv.org/abs/2305.05252
+url_pdf: https://aclanthology.org/2023.acl-long.236/
 publication_types:
   - "1"
 authors:
