@@ -16,7 +16,7 @@ abstract: Concepts benefit natural language understanding but are far from
   performance of PLM-based CE models.The code has been released on
   https://github.com/siyuyuan/KPCE.
 slides: ""
-url_pdf: https://arxiv.org/abs/2305.01876
+url_pdf: https://aclanthology.org/2023.acl-long.514/
 publication_types:
   - "1"
 authors:
