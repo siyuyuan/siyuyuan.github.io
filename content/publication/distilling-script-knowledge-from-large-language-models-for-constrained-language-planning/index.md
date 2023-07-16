@@ -27,7 +27,7 @@ authors:
   - Yanghua Xiao
 author_notes: []
 publication: In *The 61th Annual Meeting of the Association for Computational
-  Linguistics (**ACL 2023**)*
+  Linguistics (**ACL 2023**)* <font color="red">**Outstanding Paper Award**</font>
 summary: We propose an overgenerate-then-filter approach to improve large
   language models (LLMs) on this task, and use it to distill a novel constrained
   language planning dataset, CoScript, which consists of 55,000 scripts.
