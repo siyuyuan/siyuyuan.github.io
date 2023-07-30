@@ -40,10 +40,10 @@ email: ""
 ---
 Siyu Yuan (员司雨) is a second-year Ph.D. student at the School of Data Science in Fudan University and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](https://sds.fudan.edu.cn/c1/56/c22442a508246/page.htm) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/).
 
-She is devoted to acquiring knowledge, especially **cognitive knowledge** based on language models and making machines have the human-like cognitive abilities. Main interested research topics include (but not limited to)
+She is devoted to acquiring knowledge, especially **cognitive knowledge** based on language models and making machines have human-like cognitive abilities. Main interested research topics include (but not limited to)
 
 * **Knowledge acquisition**, especially on excavating knowledge based on language models, including concept acquisition, script generation and analogy making.
-* **Symbolic knowledge distillation**, especially distilling symbolic knowledge from large language models (LLMs) and transferring it to smaller but specialized models to enhance their performance.
+* **Cognitive reasoning**, especially on exploring the cognitive reasoning abilities of language models, including analogical reasoning, language planning, and belief exploration of LLMs.
 * **LLM prompt engineering**, especially on endowing appropriate instructions with COT to LLMs (e.g., GPT-4, GPT-3.5, GPT-3, BLOOMZ, LLaMA) for various kinds of tasks.
 
 
