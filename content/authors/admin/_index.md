@@ -38,13 +38,12 @@ highlight_name: true
 first_name: Siyu
 email: ""
 ---
-Siyu Yuan (员司雨) is a second-year Ph.D. student at the School of Data Science in Fudan University and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](https://sds.fudan.edu.cn/c1/56/c22442a508246/page.htm) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/).
+Siyu Yuan (员司雨) is a second-year Ph.D. student at Fudan University in the School of Data Science and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](https://sds.fudan.edu.cn/c1/56/c22442a508246/page.htm) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/).
 
-She is devoted to acquiring knowledge, especially **cognitive knowledge** based on language models and making machines have human-like cognitive abilities. Main interested research topics include (but not limited to)
+She is devoted to making machines have human-like cognitive abilities and aligning autonomous generative agents with human cognition. Her interested research topics are mostly around **cognitive science with generative agents**, including (but are not limited to)
 
-* **Knowledge acquisition**, especially on excavating knowledge based on language models, including concept acquisition, script generation and analogy making.
-* **Cognitive reasoning**, especially on exploring the cognitive reasoning abilities of language models, including analogical reasoning, language planning, and belief exploration of LLMs.
-* **LLM prompt engineering**, especially on endowing appropriate instructions with COT to LLMs (e.g., GPT-4, GPT-3.5, GPT-3, BLOOMZ, LLaMA) for various kinds of tasks.
-
+* **Cognitive Reasoning**, especially on exploring the cognitive reasoning abilities of generative agents, including analogical reasoning, language planning, and belief exploration of LLMs. The ultimate goal is to enhance the understanding of these agents about themselves and others, thereby enabling them to generate responses that align better with human cognition.
+* **Reasoning and Planning**, especially on equipping generative agents with human-level reasoning and planning capabilities, revolving around decision-making, case-based reasoning, and other complex reasoning tasks.
+* **Knowledge Acquisition**, especially on excavating knowledge based on generative agents, including concept acquisition, script generation and analogy making. These aim to construct rich knowledge bases that can be effectively utilized.
 
 (Download my [resumé](http://siyuyuan.github.io/uploads/resume.pdf).)
