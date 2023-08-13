@@ -43,7 +43,7 @@ Siyu Yuan (员司雨) is a second-year Ph.D. student at Fudan University in the 
 She is devoted to making machines have human-like cognitive abilities and aligning autonomous generative agents with human cognition. Her interested research topics are mostly around **cognitive science with generative agents**, including (but are not limited to)
 
 * **Cognitive Reasoning**, especially on exploring the cognitive reasoning abilities of generative agents, including analogical reasoning, language planning, and belief exploration of LLMs. The ultimate goal is to enhance the understanding of these agents about themselves and others, thereby enabling them to generate responses that align better with human cognition.
-* **Planning and Resoning**, especially on equipping generative agents with human-level reasoning and planning capabilities, revolving around decision-making, case-based reasoning, and other complex reasoning tasks.
+* **Planning and Reasoning**, especially on equipping generative agents with human-level reasoning and planning capabilities, revolving around decision-making, case-based reasoning, and other complex reasoning tasks.
 * **Knowledge Acquisition**, especially on excavating knowledge based on generative agents, including concept acquisition, script generation and analogy making. These aim to construct rich knowledge bases that can be effectively utilized.
 
 (Download my [resumé](http://siyuyuan.github.io/uploads/resume.pdf).)
