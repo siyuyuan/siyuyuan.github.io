@@ -44,7 +44,7 @@ sections:
         - title: Research Intern
           company: Microsoft Research Lab Asia
           company_url: ''
-          company_logo: org-ByteDance
+          company_logo: org-Microsoft
           location: Shanghai, China
           date_start: '2023-08-25'
           date_end: ''
