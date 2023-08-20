@@ -53,7 +53,7 @@ sections:
           company: Brain Technologies Inc
           company_url: ''
           company_logo: org-ByteDance
-          location: Remote
+          location: Shanghai, China
           date_start: '2022-06-01'
           date_end: '2022-09-31'
           description: Mentored by [Dr. Charles Jankowski](https://www.linkedin.com/in/charlesjankowski). Working on Symbolic Knowledge Distillation and LLM Prompt Engineering.
