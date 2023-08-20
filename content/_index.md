@@ -29,6 +29,28 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Student Researcher
+          company: Knowledge Works Lab (KW, 知识工场) at Fudan University
+          company_url: ''
+          company_logo: org-KW
+          location: Shanghai, China
+          date_start: '2019-07-01'
+          date_end: 'Present'
+          description: Knowledge Generation and Knowledge Graph.
+    design:
+      columns: '2'
   - block: accomplishments
     id: awards
     content:
