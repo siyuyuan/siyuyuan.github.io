@@ -44,7 +44,7 @@ sections:
         - title: Research Intern
           company: ByteDance AI Lab
           company_url: ''
-          company_logo: org-x
+          company_logo: org-ByteDance
           location: Shanghai, China
           date_start: '2023-01-01'
           date_end: '2023-05-31'
