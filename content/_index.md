@@ -44,7 +44,7 @@ sections:
         - title: Student Researcher
           company: Knowledge Works Lab at Fudan University
           company_url: ''
-          company_logo: org-x
+          company_logo: org-KW
           location: Shanghai, China
           date_start: '2019-07-01'
           date_end: ''
