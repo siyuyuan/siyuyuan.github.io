@@ -42,14 +42,6 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern
-          company: Microsoft Research Lab Asia
-          company_url: ''
-          company_logo: org-Microsoft
-          location: Shanghai, China
-          date_start: '2023-08-25'
-          date_end: ''
-          description: Mentored by [Dr. Kaitao Song](https://www.microsoft.com/en-us/research/people/kaitaosong/) and [Dr. Kan Ren](https://www.microsoft.com/en-us/research/people/kanren/). Autonomous Agents with Planning and Tool Use.
-        - title: Research Intern
           company: ByteDance AI Lab
           company_url: ''
           company_logo: org-ByteDance
@@ -57,6 +49,14 @@ sections:
           date_start: '2023-01-01'
           date_end: '2023-05-31'
           description: Mentored by [Dr. Jiaze Chen](https://scholar.google.com/citations?user=Vt1j3kEAAAAJ&hl=zh-CN) and [Dr. Changzhi Sun](https://www.czsun.site/). Working on LLM Evaluation and Instruction Tuning on LLMs.
+        - title: Research Intern
+          company: Brain Technologies Inc
+          company_url: ''
+          company_logo: org-ByteDance
+          location: Remote
+          date_start: '2022-06-01'
+          date_end: '2022-09-31'
+          description: Mentored by [Dr. Charles Jankowski](https://www.linkedin.com/in/charlesjankowski). Working on Symbolic Knowledge Distillation and LLM Prompt Engineering.
         - title: Student Researcher
           company: Knowledge Works Lab at Fudan University
           company_url: ''
