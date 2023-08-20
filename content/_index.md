@@ -47,7 +47,7 @@ sections:
           company_logo: org-x
           location: Shanghai, China
           date_start: '2019-07-01'
-          date_end: 'Present'
+          date_end: ''
           description: Knowledge Generation and Knowledge Graph.
     design:
       columns: '2'
