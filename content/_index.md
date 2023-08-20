@@ -61,7 +61,7 @@ sections:
           company: Brain Technologies Inc
           company_url: ''
           company_logo: org-gc
-          location: Shanghai, China
+          location: Remote
           date_start: '2023-01-01'
           date_end: '2023-05-31'
           description: Mentored by [Dr. Jiaze Chen](https://scholar.google.com/citations?user=Vt1j3kEAAAAJ&hl=zh-CN) and [Dr. Changzhi Sun](https://www.czsun.site/). Working on LLM Evaluation and Instruction Tuning on LLMs.
