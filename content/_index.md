@@ -49,6 +49,14 @@ sections:
           date_start: '2023-01-01'
           date_end: '2023-05-31'
           description: Mentored by [Dr. Jiaze Chen](https://scholar.google.com/citations?user=Vt1j3kEAAAAJ&hl=zh-CN) and [Dr. Changzhi Sun](https://www.czsun.site/). Working on LLM Evaluation and Instruction Tuning on LLMs.
+        - title: Research Intern
+          company: Brain Technologies, Inc.
+          company_url: ''
+          company_logo: org-x
+          location: Remote
+          date_start: '2022-06-01'
+          date_end: '2022-09-31'
+          description: Mentored by [Dr. Charles Jankowski](https://www.linkedin.com/in/charlesjankowski). Working on LLM Evaluation and Instruction Tuning on LLMs.
         - title: Student Researcher
           company: Knowledge Works Lab at Fudan University
           company_url: ''
