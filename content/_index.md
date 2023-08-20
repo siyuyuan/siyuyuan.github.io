@@ -42,7 +42,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Student Researcher
-          company: Knowledge Works Lab (KW, 知识工场) at Fudan University
+          company: Knowledge Works Lab at Fudan University
           company_url: ''
           company_logo: org-x
           location: Shanghai, China
