@@ -60,7 +60,7 @@ sections:
         - title: Research Intern
           company: Brain Technologies Inc
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-brain
           location: Remote
           date_start: '2022-06-01'
           date_end: '2022-09-30'
