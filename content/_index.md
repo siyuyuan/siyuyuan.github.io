@@ -45,6 +45,14 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
+          date_start: '2023-07-14'
+          description: ''
+          organization: Association for Computational Linguistics
+          organization_url: ''
+          title: ACL 2023 Outstanding Paper Award
+          url: ''
+        - certificate_url: ''
+          date_end: ''
           date_start: '2021-06-30'
           description: ''
           organization: Fudan University
