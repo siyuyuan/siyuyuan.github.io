@@ -64,7 +64,7 @@ sections:
           location: Remote
           date_start: '2022-06-01'
           date_end: '2022-09-30'
-          description: Mentored by [Dr. Jiaze Chen](https://scholar.google.com/citations?user=Vt1j3kEAAAAJ&hl=zh-CN) and [Dr. Changzhi Sun](https://www.czsun.site/). Working on LLM Evaluation and Instruction Tuning on LLMs.
+          description: Mentored by [Dr. Charles Jankowski](https://www.linkedin.com/in/charlesjankowski). Working on Symbolic Knowledge Distillation and LLM Prompt Engineering.
         - title: Student Researcher
           company: Knowledge Works Lab at Fudan University
           company_url: ''
