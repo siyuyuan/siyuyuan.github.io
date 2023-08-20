@@ -42,7 +42,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern
-          company: Microsoft Research Lab - Asia
+          company: Microsoft Research Lab Asia
           company_url: ''
           company_logo: org-ByteDance
           location: Shanghai, China
@@ -58,7 +58,7 @@ sections:
           date_end: '2023-05-31'
           description: Mentored by [Dr. Jiaze Chen](https://scholar.google.com/citations?user=Vt1j3kEAAAAJ&hl=zh-CN) and [Dr. Changzhi Sun](https://www.czsun.site/). Working on LLM Evaluation and Instruction Tuning on LLMs.
         - title: Research Intern
-          company: Brain Technologies, Inc.
+          company: Brain Technologies Inc
           company_url: ''
           company_logo: org-x
           location: Remote
