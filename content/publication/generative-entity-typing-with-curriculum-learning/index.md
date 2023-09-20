@@ -19,7 +19,7 @@ abstract: "Entity typing aims to assign types to the entity mentions in given
   superiority of our GET model over the state-of-the-art entity typing models.
   The code has been released on https://github.com/siyuyuan/GET."
 slides: ""
-url_pdf: https://arxiv.org/abs/2210.02914
+url_pdf: https://aclanthology.org/2022.emnlp-main.199/
 publication_types:
   - "1"
 authors:
