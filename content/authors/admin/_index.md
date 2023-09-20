@@ -10,9 +10,9 @@ interests:
 social:
   - display:
       header: false
+  - icon: envelope
     icon_pack: far
     link: syyuan21@m.fudan.edu.cn
-    icon: envelope
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en-CN&user=6JMfD44AAAAJ
@@ -36,7 +36,7 @@ status:
 last_name: Yuan
 highlight_name: true
 first_name: Siyu
-email: ""
+email: "syyuan21@m.fudan.edu.cn"
 ---
 Siyu Yuan (员司雨) is a second-year Ph.D. student at Fudan University in the School of Data Science and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](https://sds.fudan.edu.cn/c1/56/c22442a508246/page.htm) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/).
 
