@@ -11,8 +11,8 @@ analogy between two systems. In support of this task, we establish a benchmark
 called SCAR, containing 400 scientific analogies from 13 distinct fields, 
 tailored for evaluating analogical reasoning with structure abduction. The 
 empirical evidence underlines the continued challenges faced by LLMs, including 
-ChatGPT and GPT-4, in mastering this task, signifying the need for future exploration 
-to enhance their abilities."
+ChatGPT and GPT-4, in mastering this task, signifying the need for future 
+exploration to enhance their abilities."
 slides: ""
 url_pdf: ""
 publication_types:
