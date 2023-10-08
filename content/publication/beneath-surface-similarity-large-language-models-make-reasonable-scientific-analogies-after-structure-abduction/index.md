@@ -25,7 +25,7 @@ authors:
   - Deqing Yang
 author_notes: []
 publication: In *The 2023 Conference on Empirical Methods in Natural Language
-  Processing (**EMNLP 2023**)-Findings*
+  Processing (**EMNLP 2023**) Findings*
 summary: ""
 url_dataset: ""
 url_project: ""
