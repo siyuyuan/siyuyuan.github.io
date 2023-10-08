@@ -25,7 +25,7 @@ authors:
   - Deqing Yang
 author_notes: []
 publication: In *The 2023 Conference on Empirical Methods in Natural Language
-  Processing (**EMNLP 2023**)*
+  Processing (**EMNLP 2023**)- Findings*
 summary: We demonstrate that word analogies do not adequately reflect the 
   analogical reasoning ability of LMs to align with human cognition and propose 
   the analogical structure abduction task with a benchmark of scientific 
