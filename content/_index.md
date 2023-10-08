@@ -15,6 +15,8 @@ sections:
     content:
       title: News
       text:
+        + ***Oct.*** **2023**\:Our paper [SCAR](https://siyuyuan.github.io/publication/beneath-surface-similarity-large-language-models-make-reasonable-scientific-analogies-after-structure-abduction/) on analogical reasoning got accepted at EMNLP 2023 (Findings)!
+    
         + ***Sept.*** **2023**\:Start Student Researcher Internship at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), advised by [Dr. Kaitao Song](https://www.microsoft.com/en-us/research/people/kaitaosong/)!
 
         + ***July*** **2023**\:Our paper [Coscript](https://siyuyuan.github.io/publication/distilling-script-knowledge-from-large-language-models-for-constrained-language-planning/) got an <font color="red">**Outstanding Paper Award**</font> in ACL 2023 (top 1%)!
