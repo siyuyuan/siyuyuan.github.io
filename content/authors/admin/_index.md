@@ -13,9 +13,12 @@ social:
   - icon: envelope
     icon_pack: far
     link: syyuan21@m.fudan.edu.cn
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en-CN&user=6JMfD44AAAAJ
+  - icon: semantic-scholar
+    icon_pack: ai
+    link: https://www.semanticscholar.org/author/Siyu-Yuan/2145968425
   - icon: github
     icon_pack: fab
     link: https://github.com/siyuyuan
