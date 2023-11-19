@@ -20,14 +20,13 @@ url_pdf: https://arxiv.org/abs/2308.13961
 publication_types:
   - "1"
 authors:
+  - Shuang Li
+  - Jiangjie Chen 
   - admin
-  - Deqing Yang
-  - Jiaqing Liang
-  - Jilun Sun
-  - Jingyue Huang
-  - Kaiyan Cao
+  - Xinyi Wu
+  - Hao Yang 
+  - Shimin Tao 
   - Yanghua Xiao
-  - Rui Xie
 author_notes: []
 publication: Preprint
 summary: ""
