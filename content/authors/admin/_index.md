@@ -41,9 +41,7 @@ highlight_name: true
 first_name: Siyu
 email: "syyuan21@m.fudan.edu.cn"
 ---
-Siyu Yuan (员司雨) is a second-year Ph.D. student at Fudan University in the School of Data Science and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](https://sds.fudan.edu.cn/c1/56/c22442a508246/page.htm) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/).
-
-She is devoted to making machines have human-like cognitive abilities and aligning autonomous generative agents with human cognition. Her interested research topics are mostly around **cognitive science with generative agents**, including (but not limited to)
+Siyu Yuan (员司雨) is a third-year Ph.D. student at Fudan University in the School of Data Science and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/). She is devoted to making machines have human-like cognitive abilities and aligning autonomous generative agents with human cognition. Her interested research topics are mostly around **cognitive science with generative agents**, including (but not limited to)
 
 * **Cognitive Reasoning**, especially on exploring the cognitive reasoning abilities of generative agents, including analogical reasoning, theory of mind, and belief exploration of LLMs. The ultimate goal is to enhance the understanding of these agents about themselves and others, thereby enabling them to generate responses that align better with human cognition.
 * **Strategic Planning**, especially on equipping generative agents with human-level planning capabilities revolving around decision-making, case-based reasoning, and other complex planning tasks.
