@@ -28,7 +28,7 @@ authors:
   - Shimin Tao 
   - Yanghua Xiao
 author_notes: []
-publication: Preprint
+publication: In *The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI 2024**)*
 summary: ""
 url_dataset: ""
 url_project: ""
