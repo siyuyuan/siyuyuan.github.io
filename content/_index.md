@@ -15,6 +15,10 @@ sections:
     content:
       title: News
       text:
+        + ***Dec.*** **2023**\: Congratulations on our paper [IdiomKB](https://siyuyuan.github.io/publication/translate-meanings-not-just-words-idiomkb-role-in-optimizing-idiomatic-translation-with-language-models/) being accepted to AAAI 2024! Our work focuses on creating a multilingual knowledge base for idioms with the help of Large Language Models (LLMs), aiming to improve idiomatic translation in smaller models.
+    
+        + ***Dec.*** **2023**\: Join in EMNLP 2023, Singapore! Our work [SCAR](https://siyuyuan.github.io/publication/beneath-surface-similarity-large-language-models-make-reasonable-scientific-analogies-after-structure-abduction/) will be in the poster session!
+    
         + ***Oct.*** **2023**\:Check out our [Auction Arena](https://arxiv.org/abs/2310.05746)! We explore how LLMs navigate the complex and dynamic environment of auctions! We introduce AucArena, a novel simulation environment to evaluate the planning and strategic abilities of LLMs. Play with [arena demo](https://auction-arena.github.io/) and see if you can beat AI!
     
         + ***Oct.*** **2023**\:Our paper [SCAR](https://siyuyuan.github.io/publication/beneath-surface-similarity-large-language-models-make-reasonable-scientific-analogies-after-structure-abduction/) on analogical reasoning got accepted at EMNLP 2023 (Findings)! See you in Singapore.
