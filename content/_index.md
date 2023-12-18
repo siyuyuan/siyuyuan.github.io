@@ -15,7 +15,7 @@ sections:
     content:
       title: News
       text:
-        + ***Dec.*** **2023**: Gave a talk at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index/) about [Coscript](https://siyuyuan.github.io/publication/distilling-script-knowledge-from-large-language-models-for-constrained-language-planning/). Thanks for the invitation!
+        + ***Dec.*** **2023**\: Gave a talk at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index/) about [Coscript](https://siyuyuan.github.io/publication/distilling-script-knowledge-from-large-language-models-for-constrained-language-planning/). Thanks for the invitation!
     
         + ***Dec.*** **2023**\:Congratulations on our paper [IdiomKB](https://siyuyuan.github.io/publication/translate-meanings-not-just-words-idiomkb-role-in-optimizing-idiomatic-translation-with-language-models/) being accepted to AAAI 2024! Our work focuses on creating a multilingual knowledge base for idioms with the help of Large Language Models (LLMs), aiming to improve idiomatic translation in smaller models.
     
