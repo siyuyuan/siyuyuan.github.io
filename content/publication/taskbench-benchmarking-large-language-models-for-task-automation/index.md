@@ -31,7 +31,9 @@ authors:
   - Weiming Lu
   - Dongsheng Li
   - Yueting Zhuang
-author_notes: []
+author_notes:
+  - Equal contribution
+  - Equal contribution
 publication: Preprint
 summary: ""
 url_dataset: ""
