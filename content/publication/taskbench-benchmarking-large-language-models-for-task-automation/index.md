@@ -1,5 +1,5 @@
 ---
-abstract: Recently, the incredible progress of large language models (LLMs) has ignited 
+abstract: "Recently, the incredible progress of large language models (LLMs) has ignited 
   the spark of task automation, which decomposes the complex tasks described by user 
   instructions into sub-tasks, and invokes external tools to execute them, and plays 
   a central role in autonomous agents. However, there lacks a systematic and standardized 
@@ -16,7 +16,7 @@ abstract: Recently, the incredible progress of large language models (LLMs) has 
   TASKBENCH can effectively reflects the capability of LLMs in task automation. 
   Benefiting from the mixture of automated data construction and human verification, 
   TASKBENCH achieves a high consistency compared to the human evaluation, which can be 
-  utilized as a comprehensive and faithful benchmark for LLM-based autonomous agents.
+  utilized as a comprehensive and faithful benchmark for LLM-based autonomous agents."
 slides: ""
 url_pdf: https://arxiv.org/abs/2311.18760
 publication_types:
