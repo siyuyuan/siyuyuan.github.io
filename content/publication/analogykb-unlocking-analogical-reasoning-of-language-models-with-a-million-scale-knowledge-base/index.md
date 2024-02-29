@@ -35,7 +35,7 @@ url_source: ""
 url_video: ""
 title: "ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base"
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
