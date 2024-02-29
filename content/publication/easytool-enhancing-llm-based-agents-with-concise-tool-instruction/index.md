@@ -29,11 +29,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: Preprint
-summary: "EASYTOOL is a framework designed to enhance the ability of LLM-based agents
-  to use tools by simplifying and standardizing tool documentation. EASYTOOL can convert
-  diverse, lengthy, and often complex tool documentation into unified, concise instructions.
-  By refining extensive documentation into essential information, EASYTOOL reduces token
-  consumption and improves the efficiency of tool usage in LLM-based agents."
+summary: "EASYTOOL is a framework designed to enhance the ability of LLM-based agents to use tools by simplifying and standardizing tool documentation."
 url_dataset: ""
 url_project: "https://github.com/microsoft/JARVIS"
 publication_short: ""
