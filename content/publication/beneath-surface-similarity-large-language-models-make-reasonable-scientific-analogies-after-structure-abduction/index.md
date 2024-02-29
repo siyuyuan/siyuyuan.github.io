@@ -26,11 +26,7 @@ authors:
 author_notes: []
 publication: In *The 2023 Conference on Empirical Methods in Natural Language
   Processing (**EMNLP 2023**)-Findings*
-summary: We demonstrate that word analogies do not adequately reflect the 
-  analogical reasoning ability of LMs to align with human cognition and propose 
-  the analogical structure abduction task with a benchmark of scientific 
-  analogical reasoning with structure abduction to evaluate LLMs from a cognitive
-  perspective to align with humans.
+summary: "We propose the analogical structure abduction task with a benchmark of scientific analogical reasoning with structure abduction to evaluate LLMs from a cognitive perspective to align with humans."
 url_dataset: ""
 url_project: ""
 publication_short: ""
