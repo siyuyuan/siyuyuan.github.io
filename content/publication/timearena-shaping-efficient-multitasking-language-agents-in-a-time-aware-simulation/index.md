@@ -25,7 +25,7 @@ authors:
   - Jiangjie Chen
 author_notes: []
 publication: Preprint
-summary: ""
+summary: "TimeArena can evaluate the capabilities of language agents on efficient multitasking task. "
 url_dataset: ""
 url_project: "https://time-arena.github.io/"
 publication_short: ""
