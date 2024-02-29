@@ -15,6 +15,8 @@ sections:
     content:
       title: News
       text:
+        + ***Feb.*** **2024** Introducing [TimeArena](https://siyuyuan.github.io/publication/incharacter-evaluating-personality-fidelity-in-role-playing-agents-through-psychological-interviews/), a Time-Aware simulated textual environment for language agents to complete multiple tasks in the *shortest time*, which means simulating realistic temporal & resource constraints! Check out our [project page](https://time-arena.github.io/) for more details!
+    
         + ***Feb.*** **2024** [InCharacter](https://siyuyuan.github.io/publication/incharacter-evaluating-personality-fidelity-in-role-playing-agents-through-psychological-interviews/) is out! A new method to test personality fidelity in Role-Playing Agents using psychological interviews. Play with InCharacter [demo](https://incharacter.theirstory.cn/)!
     
         + ***Jan.*** **2024** Enhance LLM-based agents with [EASYTOOL](https://siyuyuan.github.io/publication/easytool-enhancing-llm-based-agents-with-concise-tool-instruction/)! Effortlessly convert complex, varied tool documentation into streamlined, unified tool instructions. Significantly improve performance and reduce token consumption!
