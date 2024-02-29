@@ -27,7 +27,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: Preprint
-summary: ""
+summary: "We propose a million-scale analogy knowledge base derived from existing knowledge graphs to enhance the analogical reasoning capabilities of LMs."
 url_dataset: ""
 url_project: ""
 publication_short: ""
