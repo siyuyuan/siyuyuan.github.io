@@ -28,9 +28,7 @@ authors:
 author_notes: []
 publication: In *The 61th Annual Meeting of the Association for Computational
   Linguistics (**ACL 2023**)* <font color="red">**Outstanding Paper Award**</font>
-summary: We propose an overgenerate-then-filter approach to improve large
-  language models (LLMs) on this task, and use it to distill a novel constrained
-  language planning dataset, CoScript, which consists of 55,000 scripts.
+summary: "We propose an overgenerate-then-filter approach to improve large language models on constrained language planning task, and use LLMs to distill a dataset for this task."
 url_dataset: ""
 url_project: ""
 publication_short: ""
