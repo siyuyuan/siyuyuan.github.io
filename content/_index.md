@@ -15,7 +15,7 @@ sections:
     content:
       title: News
       text:
-        + ***Feb.*** **2024** Congratulations on [EASYTOOL](https://siyuyuan.github.io/publication/easytool-enhancing-llm-based-agents-with-concise-tool-instruction/) and [TaskBench](https://arxiv.org/abs/2311.18760) being accepted to ICLR 2024 Workshop on LLM Agents!
+        + ***Feb.*** **2024** Congratulations on [EASYTOOL](https://siyuyuan.github.io/publication/easytool-enhancing-llm-based-agents-with-concise-tool-instruction/) and [TaskBench](https://arxiv.org/abs/2311.18760) being accepted to [ICLR 2024 Workshop on LLM Agents](https://llmagents.github.io/)!
     
         + ***Feb.*** **2024** Introducing [TimeArena](https://siyuyuan.github.io/publication/incharacter-evaluating-personality-fidelity-in-role-playing-agents-through-psychological-interviews/), a Time-Aware simulated textual environment for language agents to complete multiple tasks in the *shortest time*, which means simulating realistic temporal & resource constraints! Check out our [project page](https://time-arena.github.io/) for more details!
     
