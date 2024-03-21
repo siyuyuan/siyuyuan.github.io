@@ -47,4 +47,4 @@ Siyu Yuan (员司雨) is a third-year Ph.D. student at Fudan University. She is 
 * **Strategic Planning**, especially on equipping generative agents with human-level planning capabilities revolving around constrained planning, tool invocation, and other complex planning tasks.
 * **Knowledge Acquisition**, especially on excavating knowledge based on generative agents, including concept acquisition, script generation and analogy making. These aim to construct rich knowledge bases that can be effectively utilized.
 
-(Download my [resumé](http://siyuyuan.github.io/uploads/resume.pdf).)
+(Download my [resumé](http://siyuyuan.github.io/uploads/resume.pdf). The last update was on 2024-03.)
