@@ -9,7 +9,7 @@ In addition to adopting the automated evaluation metrics from prior research, we
 introduce new evaluation methods and metrics that are better suited to the in-context 
 learning paradigm of LLMs. These new metrics offer a more rigorous assessment of an 
 LLM's ability to understand puns and align more closely with human cognition than 
-previous metrics. Our findings reveal the "lazy pun generation" pattern and identify 
+previous metrics. Our findings reveal the lazy pun generation pattern and identify 
 the primary challenges LLMs encounter in understanding puns."
 slides: ""
 url_pdf: https://arxiv.org/abs/2404.13599
