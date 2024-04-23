@@ -15,6 +15,8 @@ sections:
     content:
       title: News
       text:
+        + ***Apr.*** **2024** Can large language models understand puns? Check out our new [pre-prints](https://siyuyuan.github.io/publication/a-good-pun-is-its-own-reword-can-large-language-models-understand-puns/). We leverage three popular pun tasks to systematically evaluate LLMs’ capability of understanding puns.
+    
         + ***Apr.*** **2024** Check out two pre-prints on Role-playing Agents, which extend [InCharacter](https://siyuyuan.github.io/publication/incharacter-evaluating-personality-fidelity-in-role-playing-agents-through-psychological-interviews/)! [CROSS](https://siyuyuan.github.io/publication/evaluating-character-understanding-of-large-language-models-via-character-profiling-from-fictional-works/) systematically evaluate LLMs’ capability on the character profiling task, i.e., summarizing profiles for characters from fictional works. [LIFECHOICE](https://siyuyuan.github.io/publication/character-is-destiny-can-large-language-models-simulate-persona-driven-decisions-in-role-playing/) investigate whether LLMs can predict characters’ decisions provided with the preceding stories in high-quality novels. 
     
         + ***Feb.*** **2024** Congratulations on [EASYTOOL](https://siyuyuan.github.io/publication/easytool-enhancing-llm-based-agents-with-concise-tool-instruction/) and [TaskBench](https://arxiv.org/abs/2311.18760) being accepted to [ICLR 2024 Workshop on LLM Agents](https://llmagents.github.io/)!
