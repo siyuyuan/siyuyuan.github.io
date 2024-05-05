@@ -15,7 +15,7 @@ sections:
     content:
       title: News
       text:
-        + ***May.*** **2024** Explore the [First Survey on Role-Playing Agents](https://siyuyuan.github.io/publication/from-persona-to-personalization-a-survey-on-role-playing-language-agents/)! Discover insights into RPLA technologies, applications, and the potential for human-AI coexistence. 
+        + ***Apr.*** **2024** Explore the [First Survey on Role-Playing Agents](https://siyuyuan.github.io/publication/from-persona-to-personalization-a-survey-on-role-playing-language-agents/)! Discover insights into RPLA technologies, applications, and the potential for human-AI coexistence. 
     
         + ***Apr.*** **2024** Can large language models understand puns? Check out our new [pre-prints](https://siyuyuan.github.io/publication/a-good-pun-is-its-own-reword-can-large-language-models-understand-puns/). We leverage three popular pun tasks to systematically evaluate LLMs’ capability of understanding puns.
     
