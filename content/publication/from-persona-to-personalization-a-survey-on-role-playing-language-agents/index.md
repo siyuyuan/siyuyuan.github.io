@@ -69,7 +69,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: 16.png
+  filename: 17.png
 date: 2024-04-30T02:34:00.000Z
 url_slides: ""
 publishDate: 2024-04-30T02:34:00.000Z
