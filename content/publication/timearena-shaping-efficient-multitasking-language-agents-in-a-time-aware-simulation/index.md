@@ -24,7 +24,8 @@ authors:
   - Yanghua Xiao
   - Jiangjie Chen
 author_notes: []
-publication: Preprint
+publication: In *The 62th Annual Meeting of the Association for Computational
+  Linguistics (**ACL 2024**)*
 summary: "TimeArena can evaluate the capabilities of language agents on efficient multitasking task. "
 url_dataset: ""
 url_project: "https://time-arena.github.io/"
@@ -41,9 +42,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: 13.png
-date: 2024-02-15T02:34:00.000Z
+date: 2024-05-15T02:34:00.000Z
 url_slides: ""
-publishDate: 2024-02-15T02:34:00.000Z
+publishDate: 2024-05-15T02:34:00.000Z
 url_poster: ""
 url_code: https://time-arena.github.io/
 ---
