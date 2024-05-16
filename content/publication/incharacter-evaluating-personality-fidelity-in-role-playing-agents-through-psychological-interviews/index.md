@@ -31,7 +31,8 @@ authors:
   - Cheng Li
   - Yanghua Xiao
 author_notes: []
-publication: Preprint
+publication: In *The 62th Annual Meeting of the Association for Computational
+  Linguistics (**ACL 2024**)*
 summary: ""
 url_dataset: ""
 url_project: "https://github.com/Neph0s/InCharacter"
@@ -48,9 +49,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: 12.png
-date: 2024-02-15T02:34:00.000Z
+date: 2024-05-15T02:34:00.000Z
 url_slides: ""
-publishDate: 2024-02-15T02:34:00.000Z
+publishDate: 2024-05-15T02:34:00.000Z
 url_poster: ""
 url_code: https://github.com/Neph0s/InCharacter
 ---
