@@ -26,7 +26,8 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: Preprint
+publication: In *The 62th Annual Meeting of the Association for Computational
+  Linguistics (**ACL 2024**)*
 summary: "We propose a million-scale analogy knowledge base derived from existing knowledge graphs to enhance the analogical reasoning capabilities of LMs."
 url_dataset: ""
 url_project: ""
@@ -43,9 +44,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: 6.png
-date: 2023-05-10T02:34:00.000Z
+date: 2024-05-15T02:34:00.000Z
 url_slides: ""
-publishDate: 2023-05-10T00:00:00.000Z
+publishDate: 2024-05-15T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/siyuyuan/analogykb
 ---
