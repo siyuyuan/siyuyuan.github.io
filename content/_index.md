@@ -15,6 +15,8 @@ sections:
     content:
       title: News
       text:
+        + ***May.*** **2024** Congratulations on [AnalogyKB](https://siyuyuan.github.io/publication/analogykb-unlocking-analogical-reasoning-of-language-models-with-a-million-scale-knowledge-base/), [TimeArena](https://siyuyuan.github.io/publication/incharacter-evaluating-personality-fidelity-in-role-playing-agents-through-psychological-interviews/) and [InCharacter](https://siyuyuan.github.io/publication/incharacter-evaluating-personality-fidelity-in-role-playing-agents-through-psychological-interviews/) being accepted to ACL 2024 Main Conference and one paper being accepted to ACL 2024 Findings! See you in Bangkok, Thailand!
+
         + ***Apr.*** **2024** Explore the [First Survey on Role-Playing Agents](https://siyuyuan.github.io/publication/from-persona-to-personalization-a-survey-on-role-playing-language-agents/)! Discover insights into RPLA technologies, applications, and the potential for human-AI coexistence. 
     
         + ***Apr.*** **2024** Can large language models understand puns? Check out our new [pre-prints](https://siyuyuan.github.io/publication/a-good-pun-is-its-own-reword-can-large-language-models-understand-puns/). We leverage three popular pun tasks to systematically evaluate LLMs’ capability of understanding puns.
