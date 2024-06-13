@@ -28,7 +28,7 @@ author_notes: []
 publication: Preprint
 summary: ""
 url_dataset: ""
-url_project: ""
+url_project: "https://selfgoal-agent.github.io/"
 publication_short: ""
 url_source: ""
 url_video: ""
@@ -46,5 +46,5 @@ date: 2024-06-07T02:34:00.000Z
 url_slides: ""
 publishDate: 2024-06-07T02:34:00.000Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/rhyang2021/SELFGOAL"
 ---
