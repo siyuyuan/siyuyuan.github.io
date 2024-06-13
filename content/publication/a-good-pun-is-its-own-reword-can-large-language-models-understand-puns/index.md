@@ -20,7 +20,9 @@ authors:
   - admin
   - Lingjie Chen
   - Deqing Yang
-author_notes: []
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution"
 publication: Preprint
 summary: ""
 url_dataset: ""
