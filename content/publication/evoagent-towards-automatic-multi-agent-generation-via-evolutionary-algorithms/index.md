@@ -31,7 +31,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: Preprint
-summary: ""
+summary: "EvoAgent is a generic method to automatically extend expert agents to multi-agent systems via the evolutionary algorithm. EvoAgent can be generalized to any LLM-based agent framework, and can automatically extend the existing agent framework to multi-agent systems without any extra human designs. "
 url_dataset: ""
 url_project: "https://evo-agent.github.io/"
 publication_short: ""
