@@ -4,12 +4,12 @@ abstract: To address intricate real-world tasks, there has been a rising interes
   LLM-based agents, it usually requires LLMs to understand many tool functions from 
   different tool documentation. But these documentations could be diverse, redundant 
   or incomplete, which immensely affects the capability of LLMs in using tools. To 
-  solve this, we introduce EASYTOOL, a framework transforming diverse and lengthy 
+  solve this, we introduce EasyTool, a framework transforming diverse and lengthy 
   tool documentation into a unified and concise tool instruction for easier tool 
-  usage. EASYTOOL purifies essential information from extensive tool documentation 
+  usage. EasyTool purifies essential information from extensive tool documentation 
   of different sources, and elaborates a unified interface (i.e., tool instruction) 
   to offer standardized tool descriptions and functionalities for LLM-based agents. 
-  Extensive experiments on multiple different tasks demonstrate that EASYTOOL can 
+  Extensive experiments on multiple different tasks demonstrate that EasyTool can 
   significantly reduce token consumption and improve the performance of tool 
   utilization in real-world scenarios.
 slides: ""
@@ -29,13 +29,13 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: Preprint
-summary: "EASYTOOL is a framework designed to enhance the ability of LLM-based agents to use tools by simplifying and standardizing tool documentation."
+summary: "EasyTool is a framework designed to enhance the ability of LLM-based agents to use tools by simplifying and standardizing tool documentation."
 url_dataset: ""
 url_project: "https://github.com/microsoft/JARVIS"
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction"
+title: "EasyTool: Enhancing LLM-based Agents with Concise Tool Instruction"
 doi: ""
 featured: true
 tags: []
