@@ -15,6 +15,8 @@ sections:
     content:
       title: News
       text:
+        + ***Jun.*** **2024** How to automatically extend the specialized agent to multi-agent systems to improve task-solving capability? We propose [EvoAgent](https://siyuyuan.github.io/publication/evoagent-towards-automatic-multi-agent-generation-via-evolutionary-algorithms/), a generic method to automatically extend expert agents to multi-agent systems via the evolutionary algorithm. EvoAgent can be generalized to any LLM-based agent framework, and significantly enhance the task-solving capabilities of LLM-based agents!!
+
         + ***Jun.*** **2024** How can we enable autonomous language agents to consistently achieve high-level goals without training? Try [SelfGoal](https://siyuyuan.github.io/publication/selfgoal-your-language-agents-already-know-how-to-achieve-high-level-goals/), a novel automatic approach designed to enhance agents’ capabilities to achieve high-level goals with limited human prior and environmental feedback.
     
         + ***May.*** **2024** Congratulations on [AnalogyKB](https://siyuyuan.github.io/publication/analogykb-unlocking-analogical-reasoning-of-language-models-with-a-million-scale-knowledge-base/), [TimeArena](https://siyuyuan.github.io/publication/incharacter-evaluating-personality-fidelity-in-role-playing-agents-through-psychological-interviews/) and [InCharacter](https://siyuyuan.github.io/publication/incharacter-evaluating-personality-fidelity-in-role-playing-agents-through-psychological-interviews/) being accepted to ACL 2024 Main Conference and one paper being accepted to ACL 2024 Findings! See you in Bangkok, Thailand!
