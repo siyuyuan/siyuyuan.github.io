@@ -34,7 +34,7 @@ url_source: ""
 url_video: ""
 title: "Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction"
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
