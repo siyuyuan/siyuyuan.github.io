@@ -80,7 +80,7 @@ sections:
           company_logo: org-Microsoft
           location: Shanghai, China
           date_start: '2023-09-04'
-          date_end: ''
+          date_end: '2024-06-01'
           description: Mentored by [Dr. Kaitao Song](https://www.microsoft.com/en-us/research/people/kaitaosong/) and [Dr. Kan Ren](https://www.microsoft.com/en-us/research/people/kanren/). Autonomous Agents with Planning and Tool Use.
         - title: Research Intern
           company: ByteDance AI Lab
