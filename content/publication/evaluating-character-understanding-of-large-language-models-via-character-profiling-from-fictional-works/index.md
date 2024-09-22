@@ -32,7 +32,7 @@ author_notes:
   - "Equal contribution"
   - "Equal contribution"
 publication: In *The 2024 Conference on Empirical Methods in Natural Language
-  Processing(**EMNLP 2024**)*
+  Processing (**EMNLP 2024**)*
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -49,9 +49,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: 14.png
-date: 2024-04-15T02:34:00.000Z
+date: 2024-09-20T02:34:00.000Z
 url_slides: ""
-publishDate: 2024-04-15T02:34:00.000Z
+publishDate: 2024-09-20T02:34:00.000Z
 url_poster: ""
 url_code: https://github.com/Joanna0123/character_profiling
 ---

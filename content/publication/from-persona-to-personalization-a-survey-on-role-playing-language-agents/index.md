@@ -70,9 +70,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: 17.png
-date: 2024-04-30T02:34:00.000Z
+date: 2024-09-20T02:34:00.000Z
 url_slides: ""
-publishDate: 2024-04-30T02:34:00.000Z
+publishDate: 2024-09-20T02:34:00.000Z
 url_poster: ""
 url_code: ""
 ---
