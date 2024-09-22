@@ -16,7 +16,7 @@ sections:
       title: News
       text:
         + ***Sep.*** **2024** Our survey about [Role-Playing Agents](https://siyuyuan.github.io/publication/from-persona-to-personalization-a-survey-on-role-playing-language-agents/) is accepted to TMLR!
-  - 
+
         + ***Sep.*** **2024** Three papers accepted to EMNLP 2024 Main Conference! One is about [character profiling](https://siyuyuan.github.io/publication/evaluating-character-understanding-of-large-language-models-via-character-profiling-from-fictional-works/), one is about [pun understanding](https://siyuyuan.github.io/publication/a-good-pun-is-its-own-reword-can-large-language-models-understand-puns/) and one is about concept understanding with analogy.
 
         + ***Jun.*** **2024** How to automatically extend the specialized agent to multi-agent systems to improve task-solving capability? We propose [EvoAgent](https://siyuyuan.github.io/publication/evoagent-towards-automatic-multi-agent-generation-via-evolutionary-algorithms/), a generic method to automatically extend expert agents to multi-agent systems via the evolutionary algorithm. EvoAgent can be generalized to any LLM-based agent framework, and significantly enhance the task-solving capabilities of LLM-based agents!!
