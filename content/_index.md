@@ -15,15 +15,11 @@ sections:
     content:
       title: News
       text:
-        + ***Sep.*** **2024** [our Survey of Role-Playing Agents](https://siyuyuan.github.io/publication/from-persona-to-personalization-a-survey-on-role-playing-language-agents/) is accepted to TMLR!
-  - 
-        + ***Sep.*** **2024** Three papers accepted to EMNLP 2024 Main Conference! One is about [character profiling](https://siyuyuan.github.io/publication/evaluating-character-understanding-of-large-language-models-via-character-profiling-from-fictional-works/), one is about [pun understanding](https://siyuyuan.github.io/publication/a-good-pun-is-its-own-reword-can-large-language-models-understand-puns/) and one is about concept understanding with analogy.
-
         + ***Jun.*** **2024** How to automatically extend the specialized agent to multi-agent systems to improve task-solving capability? We propose [EvoAgent](https://siyuyuan.github.io/publication/evoagent-towards-automatic-multi-agent-generation-via-evolutionary-algorithms/), a generic method to automatically extend expert agents to multi-agent systems via the evolutionary algorithm. EvoAgent can be generalized to any LLM-based agent framework, and significantly enhance the task-solving capabilities of LLM-based agents!!
 
         + ***Jun.*** **2024** How can we enable autonomous language agents to consistently achieve high-level goals without training? Try [SelfGoal](https://siyuyuan.github.io/publication/selfgoal-your-language-agents-already-know-how-to-achieve-high-level-goals/), a novel automatic approach designed to enhance agents’ capabilities to achieve high-level goals with limited human prior and environmental feedback.
     
-        + ***May.*** **2024** Three papers, i.e., [AnalogyKB](https://siyuyuan.github.io/publication/analogykb-unlocking-analogical-reasoning-of-language-models-with-a-million-scale-knowledge-base/), [TimeArena](https://siyuyuan.github.io/publication/incharacter-evaluating-personality-fidelity-in-role-playing-agents-through-psychological-interviews/) and [InCharacter](https://siyuyuan.github.io/publication/incharacter-evaluating-personality-fidelity-in-role-playing-agents-through-psychological-interviews/) are accepted to ACL 2024 Main Conference and one paper being accepted to ACL 2024 Findings! See you in Bangkok, Thailand!
+        + ***May.*** **2024** Congratulations on [AnalogyKB](https://siyuyuan.github.io/publication/analogykb-unlocking-analogical-reasoning-of-language-models-with-a-million-scale-knowledge-base/), [TimeArena](https://siyuyuan.github.io/publication/incharacter-evaluating-personality-fidelity-in-role-playing-agents-through-psychological-interviews/) and [InCharacter](https://siyuyuan.github.io/publication/incharacter-evaluating-personality-fidelity-in-role-playing-agents-through-psychological-interviews/) being accepted to ACL 2024 Main Conference and one paper being accepted to ACL 2024 Findings! See you in Bangkok, Thailand!
 
         + ***Apr.*** **2024** Explore the [First Survey on Role-Playing Agents](https://siyuyuan.github.io/publication/from-persona-to-personalization-a-survey-on-role-playing-language-agents/)! Discover insights into RPLA technologies, applications, and the potential for human-AI coexistence. 
     
@@ -31,7 +27,7 @@ sections:
     
         + ***Apr.*** **2024** Check out two pre-prints on Role-playing Agents, which extend [InCharacter](https://siyuyuan.github.io/publication/incharacter-evaluating-personality-fidelity-in-role-playing-agents-through-psychological-interviews/)! [CROSS](https://siyuyuan.github.io/publication/evaluating-character-understanding-of-large-language-models-via-character-profiling-from-fictional-works/) systematically evaluate LLMs’ capability on the character profiling task, i.e., summarizing profiles for characters from fictional works. [LIFECHOICE](https://siyuyuan.github.io/publication/character-is-destiny-can-large-language-models-simulate-persona-driven-decisions-in-role-playing/) investigate whether LLMs can predict characters’ decisions provided with the preceding stories in high-quality novels. 
     
-        + ***Feb.*** **2024** [EasyTool](https://siyuyuan.github.io/publication/easytool-enhancing-llm-based-agents-with-concise-tool-instruction/) and [TaskBench](https://arxiv.org/abs/2311.18760) are accepted to [ICLR 2024 Workshop on LLM Agents](https://llmagents.github.io/)!
+        + ***Feb.*** **2024** Congratulations on [EasyTool](https://siyuyuan.github.io/publication/easytool-enhancing-llm-based-agents-with-concise-tool-instruction/) and [TaskBench](https://arxiv.org/abs/2311.18760) being accepted to [ICLR 2024 Workshop on LLM Agents](https://llmagents.github.io/)!
     
         + ***Feb.*** **2024** Introducing [TimeArena](https://siyuyuan.github.io/publication/incharacter-evaluating-personality-fidelity-in-role-playing-agents-through-psychological-interviews/), a Time-Aware simulated textual environment for language agents to complete multiple tasks in the *shortest time*, which means simulating realistic temporal & resource constraints! Check out our [project page](https://time-arena.github.io/) for more details!
     
@@ -41,7 +37,7 @@ sections:
     
         + ***Dec.*** **2023** Gave a talk at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index/) about [Coscript](https://siyuyuan.github.io/publication/distilling-script-knowledge-from-large-language-models-for-constrained-language-planning/). Thanks for the invitation!
     
-        + ***Dec.*** **2023** Our paper [IdiomKB](https://siyuyuan.github.io/publication/translate-meanings-not-just-words-idiomkb-role-in-optimizing-idiomatic-translation-with-language-models/) is accepted to AAAI 2024! Our work focuses on creating a multilingual knowledge base for idioms with the help of Large Language Models (LLMs), aiming to improve idiomatic translation in smaller models.
+        + ***Dec.*** **2023** Congratulations on our paper [IdiomKB](https://siyuyuan.github.io/publication/translate-meanings-not-just-words-idiomkb-role-in-optimizing-idiomatic-translation-with-language-models/) being accepted to AAAI 2024! Our work focuses on creating a multilingual knowledge base for idioms with the help of Large Language Models (LLMs), aiming to improve idiomatic translation in smaller models.
     
         + ***Dec.*** **2023** Join in EMNLP 2023, Singapore! Our work [SCAR](https://siyuyuan.github.io/publication/beneath-surface-similarity-large-language-models-make-reasonable-scientific-analogies-after-structure-abduction/) will be in the poster session!
 
