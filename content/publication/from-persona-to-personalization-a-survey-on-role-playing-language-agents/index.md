@@ -53,7 +53,7 @@ author_notes:
   - "Equal contribution"
   - "Equal contribution"
   - "Equal contribution"
-publication: Preprint
+publication: In *The Transactions on Machine Learning Research(**TMLR**)*
 summary: ""
 url_dataset: ""
 url_project: ""

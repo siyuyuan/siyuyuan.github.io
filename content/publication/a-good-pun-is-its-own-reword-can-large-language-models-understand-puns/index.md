@@ -23,7 +23,8 @@ authors:
 author_notes:
   - "Equal contribution"
   - "Equal contribution"
-publication: Preprint
+publication: In *The 2024 Conference on Empirical Methods in Natural Language
+  Processing(**EMNLP 2024**)*
 summary: ""
 url_dataset: ""
 url_project: ""
