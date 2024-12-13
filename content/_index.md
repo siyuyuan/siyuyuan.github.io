@@ -17,6 +17,8 @@ sections:
       text:
         + ***Dec.*** **2024** I got the <font color="red">**China National Scholarship for Doctoral Students**</font>!
 
+        + ***Oct.*** **2024** Start Student Researcher Internship at [Bytedance](https://www.bytedance.com/en/), working with the great Seed Team!
+
         + ***Sep.*** **2024** Our survey about [Role-Playing Agents](https://siyuyuan.github.io/publication/from-persona-to-personalization-a-survey-on-role-playing-language-agents/) is accepted to TMLR!
 
         + ***Sep.*** **2024** Three papers accepted to EMNLP 2024 Main Conference! One is about [character profiling](https://siyuyuan.github.io/publication/evaluating-character-understanding-of-large-language-models-via-character-profiling-from-fictional-works/), one is about [pun understanding](https://siyuyuan.github.io/publication/a-good-pun-is-its-own-reword-can-large-language-models-understand-puns/) and one is about [concept understanding with analogy](https://siyuyuan.github.io/publication/boosting-scientific-concepts-understanding-can-analogy-from-teacher-models-empower-student-models/).
@@ -56,14 +58,6 @@ sections:
         + ***Sept.*** **2023** Start Student Researcher Internship at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), advised by [Dr. Kaitao Song](https://www.microsoft.com/en-us/research/people/kaitaosong/)!
 
         + ***July*** **2023** Our paper [Coscript](https://siyuyuan.github.io/publication/distilling-script-knowledge-from-large-language-models-for-constrained-language-planning/) got an <font color="red">**Outstanding Paper Award**</font> in ACL 2023 (top 1%)!
-
-        + ***July*** **2023** Gave a talk for Peking University Shenzhen Graduate School Shanghai Alumni Association.
-
-        + ***May*** **2023** Check out two pre-prints on Analogical Reasoning. [AnalogyKB](https://siyuyuan.github.io/publication/analogykb-unlocking-analogical-reasoning-of-language-models-with-a-million-scale-knowledge-base/) is a million-scale analogy KB derived from existing KGs, to enable machines to achieve analogical reasoning skills. [SCAR](https://siyuyuan.github.io/publication/beneath-surface-similarity-large-language-models-make-reasonable-scientific-analogies-after-structure-abduction/) is a new challenge for evaluating the structure abduction ability of LLMs for scientific analogies, which is essential for human-like analogical reasoning.
-      
-        + ***May*** **2023** Two papers accepted to ACL 2023! One is [Coscript](https://siyuyuan.github.io/publication/distilling-script-knowledge-from-large-language-models-for-constrained-language-planning/) on constraint language planning, and the other is [KPCE](https://siyuyuan.github.io/publication/causality-aware-concept-extraction-based-on-knowledge-guided-prompting/) on concept extraction through the lens of a Structural Causal Model.
-     
-        + ***Jan.*** **2023** Start Student Researcher Internship at [Bytedance](https://www.bytedance.com/en/), working with the great AILab!
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
@@ -80,6 +74,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Intern
+          company: ByteDance Seed Team
+          company_url: ''
+          company_logo: org-ByteDance
+          location: Shanghai, China
+          date_start: '2024-10-01'
+          date_end: ''
+          description: Mentored by [Dr. Jiecao Chen](https://scholar.google.com/citations?user=wI1P9y8AAAAJ&hl=en). Autonomous Agents with Planning and Reasoning.
         - title: Research Intern
           company: Microsoft Research Lab Asia
           company_url: ''
