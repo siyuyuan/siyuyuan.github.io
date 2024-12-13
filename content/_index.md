@@ -15,6 +15,8 @@ sections:
     content:
       title: News
       text:
+        + ***Dec.*** **2024** I got the <font color="red">**China National Scholarship for Doctoral Students**</font>!
+
         + ***Sep.*** **2024** Our survey about [Role-Playing Agents](https://siyuyuan.github.io/publication/from-persona-to-personalization-a-survey-on-role-playing-language-agents/) is accepted to TMLR!
 
         + ***Sep.*** **2024** Three papers accepted to EMNLP 2024 Main Conference! One is about [character profiling](https://siyuyuan.github.io/publication/evaluating-character-understanding-of-large-language-models-via-character-profiling-from-fictional-works/), one is about [pun understanding](https://siyuyuan.github.io/publication/a-good-pun-is-its-own-reword-can-large-language-models-understand-puns/) and one is about [concept understanding with analogy](https://siyuyuan.github.io/publication/boosting-scientific-concepts-understanding-can-analogy-from-teacher-models-empower-student-models/).
