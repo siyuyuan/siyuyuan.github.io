@@ -132,6 +132,14 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
+          date_start: '2024-12-01'
+          description: ''
+          organization: Fudan University
+          organization_url: ''
+          title: China National Scholarship for Doctoral Students
+          url: ''
+        - certificate_url: ''
+          date_end: ''
           date_start: '2023-07-14'
           description: ''
           organization: Association for Computational Linguistics
@@ -156,11 +164,11 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2018-10-01'
+          date_start: '2018-12-01'
           description: ''
           organization: Fudan University
           organization_url: ''
-          title: China National Scholarship
+          title: China National Scholarship for Undergraduate Students
           url: ''
     design:
       columns: '2'
